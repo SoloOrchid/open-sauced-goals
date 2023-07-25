@@ -1,39 +1,39 @@
 [
   {
     "full_name": "MicrosoftDocs/PowerShell-Docs",
-    "stargazers_count": 1733,
-    "open_issues_count": 23,
+    "stargazers_count": 1737,
+    "open_issues_count": 26,
     "forks_count": 1508
   },
   {
     "full_name": "dahlbyk/posh-git",
-    "stargazers_count": 7026,
+    "stargazers_count": 7031,
     "open_issues_count": 88,
-    "forks_count": 815
+    "forks_count": 816
   },
   {
     "full_name": "hakluke/how-to-exit-vim",
-    "stargazers_count": 6467,
-    "open_issues_count": 95,
+    "stargazers_count": 6469,
+    "open_issues_count": 94,
     "forks_count": 304
   },
   {
     "full_name": "microsoft/OCR-Form-Tools",
-    "stargazers_count": 479,
+    "stargazers_count": 480,
     "open_issues_count": 178,
     "forks_count": 167
   },
   {
     "full_name": "disposable-email-domains/disposable-email-domains",
-    "stargazers_count": 1786,
-    "open_issues_count": 25,
-    "forks_count": 440
+    "stargazers_count": 1790,
+    "open_issues_count": 26,
+    "forks_count": 441
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 7169,
-    "open_issues_count": 161,
-    "forks_count": 293
+    "stargazers_count": 7223,
+    "open_issues_count": 160,
+    "forks_count": 297
   },
   {
     "full_name": "giggsey/libphonenumber-for-php",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 17071,
+    "stargazers_count": 17397,
     "open_issues_count": 7,
-    "forks_count": 3077
+    "forks_count": 3187
   },
   {
     "full_name": "shuchkin/simplexlsx",
@@ -69,6 +69,6 @@
     "full_name": "Azure-Samples/php-docs-hello-world",
     "stargazers_count": 31,
     "open_issues_count": 26,
-    "forks_count": 1293
+    "forks_count": 1296
   }
 ]
