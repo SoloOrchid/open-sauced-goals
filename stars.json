@@ -1,57 +1,57 @@
 [
   {
     "full_name": "MicrosoftDocs/PowerShell-Docs",
-    "stargazers_count": 1738,
-    "open_issues_count": 26,
-    "forks_count": 1510
+    "stargazers_count": 1743,
+    "open_issues_count": 27,
+    "forks_count": 1512
   },
   {
     "full_name": "dahlbyk/posh-git",
-    "stargazers_count": 7033,
+    "stargazers_count": 7040,
     "open_issues_count": 88,
-    "forks_count": 816
+    "forks_count": 817
   },
   {
     "full_name": "hakluke/how-to-exit-vim",
-    "stargazers_count": 6472,
+    "stargazers_count": 6475,
     "open_issues_count": 94,
     "forks_count": 304
   },
   {
     "full_name": "microsoft/OCR-Form-Tools",
-    "stargazers_count": 480,
+    "stargazers_count": 481,
     "open_issues_count": 178,
     "forks_count": 167
   },
   {
     "full_name": "disposable-email-domains/disposable-email-domains",
-    "stargazers_count": 1799,
+    "stargazers_count": 1801,
     "open_issues_count": 27,
     "forks_count": 442
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 7277,
-    "open_issues_count": 162,
-    "forks_count": 298
+    "stargazers_count": 7333,
+    "open_issues_count": 166,
+    "forks_count": 301
   },
   {
     "full_name": "giggsey/libphonenumber-for-php",
-    "stargazers_count": 4405,
+    "stargazers_count": 4406,
     "open_issues_count": 4,
-    "forks_count": 442
+    "forks_count": 443
   },
   {
     "full_name": "antonioribeiro/google2fa",
-    "stargazers_count": 1671,
+    "stargazers_count": 1673,
     "open_issues_count": 6,
-    "forks_count": 182
+    "forks_count": 183
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 17600,
-    "open_issues_count": 8,
-    "forks_count": 3247
+    "stargazers_count": 17869,
+    "open_issues_count": 7,
+    "forks_count": 3317
   },
   {
     "full_name": "shuchkin/simplexlsx",
@@ -69,6 +69,6 @@
     "full_name": "Azure-Samples/php-docs-hello-world",
     "stargazers_count": 31,
     "open_issues_count": 26,
-    "forks_count": 1315
+    "forks_count": 1319
   }
 ]
