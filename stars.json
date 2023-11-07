@@ -1,51 +1,51 @@
 [
   {
     "full_name": "sdras/awesome-actions",
-    "stargazers_count": 22898,
+    "stargazers_count": 22919,
     "open_issues_count": 107,
-    "forks_count": 1433
+    "forks_count": 1434
   },
   {
     "full_name": "MicrosoftDocs/PowerShell-Docs",
-    "stargazers_count": 1793,
+    "stargazers_count": 1792,
     "open_issues_count": 23,
     "forks_count": 1540
   },
   {
     "full_name": "dahlbyk/posh-git",
-    "stargazers_count": 7176,
+    "stargazers_count": 7180,
     "open_issues_count": 91,
     "forks_count": 817
   },
   {
     "full_name": "hakluke/how-to-exit-vim",
-    "stargazers_count": 6573,
+    "stargazers_count": 6579,
     "open_issues_count": 93,
     "forks_count": 309
   },
   {
     "full_name": "microsoft/OCR-Form-Tools",
-    "stargazers_count": 489,
+    "stargazers_count": 490,
     "open_issues_count": 180,
     "forks_count": 169
   },
   {
     "full_name": "disposable-email-domains/disposable-email-domains",
-    "stargazers_count": 1910,
+    "stargazers_count": 1912,
     "open_issues_count": 42,
     "forks_count": 459
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 10106,
-    "open_issues_count": 227,
-    "forks_count": 475
+    "stargazers_count": 10135,
+    "open_issues_count": 233,
+    "forks_count": 478
   },
   {
     "full_name": "giggsey/libphonenumber-for-php",
     "stargazers_count": 4475,
     "open_issues_count": 3,
-    "forks_count": 482
+    "forks_count": 484
   },
   {
     "full_name": "antonioribeiro/google2fa",
@@ -55,13 +55,13 @@
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 21858,
-    "open_issues_count": 6,
-    "forks_count": 4795
+    "stargazers_count": 21945,
+    "open_issues_count": 7,
+    "forks_count": 4837
   },
   {
     "full_name": "shuchkin/simplexlsx",
-    "stargazers_count": 1609,
+    "stargazers_count": 1612,
     "open_issues_count": 8,
     "forks_count": 504
   },
@@ -74,7 +74,7 @@
   {
     "full_name": "Azure-Samples/php-docs-hello-world",
     "stargazers_count": 34,
-    "open_issues_count": 29,
-    "forks_count": 1537
+    "open_issues_count": 31,
+    "forks_count": 1549
   }
 ]
