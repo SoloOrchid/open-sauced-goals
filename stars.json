@@ -1,9 +1,9 @@
 [
   {
     "full_name": "invoiceninja/invoiceninja",
-    "stargazers_count": 7502,
-    "open_issues_count": 705,
-    "forks_count": 2180
+    "stargazers_count": 7507,
+    "open_issues_count": 704,
+    "forks_count": 2182
   },
   {
     "full_name": "xizon/fullstack-nextjs-app-template",
@@ -13,49 +13,49 @@
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 72236,
-    "open_issues_count": 446,
-    "forks_count": 9172
+    "stargazers_count": 72393,
+    "open_issues_count": 445,
+    "forks_count": 9178
   },
   {
     "full_name": "Laragear/TwoFactor",
-    "stargazers_count": 217,
+    "stargazers_count": 219,
     "open_issues_count": 7,
     "forks_count": 14
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 22380,
-    "open_issues_count": 31,
-    "forks_count": 13446
+    "stargazers_count": 22508,
+    "open_issues_count": 37,
+    "forks_count": 13668
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 165773,
-    "open_issues_count": 490,
-    "forks_count": 25779
+    "stargazers_count": 165881,
+    "open_issues_count": 487,
+    "forks_count": 25787
   },
   {
     "full_name": "sdras/awesome-actions",
-    "stargazers_count": 23244,
+    "stargazers_count": 23270,
     "open_issues_count": 108,
-    "forks_count": 1454
+    "forks_count": 1455
   },
   {
     "full_name": "MicrosoftDocs/PowerShell-Docs",
-    "stargazers_count": 1818,
-    "open_issues_count": 29,
-    "forks_count": 1557
+    "stargazers_count": 1820,
+    "open_issues_count": 31,
+    "forks_count": 1558
   },
   {
     "full_name": "dahlbyk/posh-git",
-    "stargazers_count": 7241,
+    "stargazers_count": 7248,
     "open_issues_count": 94,
     "forks_count": 819
   },
   {
     "full_name": "hakluke/how-to-exit-vim",
-    "stargazers_count": 6696,
+    "stargazers_count": 6699,
     "open_issues_count": 96,
     "forks_count": 319
   },
@@ -67,37 +67,37 @@
   },
   {
     "full_name": "disposable-email-domains/disposable-email-domains",
-    "stargazers_count": 1989,
-    "open_issues_count": 49,
-    "forks_count": 473
+    "stargazers_count": 1994,
+    "open_issues_count": 50,
+    "forks_count": 475
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 10722,
-    "open_issues_count": 264,
-    "forks_count": 515
+    "stargazers_count": 10766,
+    "open_issues_count": 263,
+    "forks_count": 518
   },
   {
     "full_name": "giggsey/libphonenumber-for-php",
-    "stargazers_count": 4552,
+    "stargazers_count": 4553,
     "open_issues_count": 4,
     "forks_count": 492
   },
   {
     "full_name": "antonioribeiro/google2fa",
-    "stargazers_count": 1731,
+    "stargazers_count": 1732,
     "open_issues_count": 9,
     "forks_count": 225
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 23204,
+    "stargazers_count": 23252,
     "open_issues_count": 4,
-    "forks_count": 5592
+    "forks_count": 5633
   },
   {
     "full_name": "shuchkin/simplexlsx",
-    "stargazers_count": 1631,
+    "stargazers_count": 1632,
     "open_issues_count": 9,
     "forks_count": 504
   },
@@ -111,6 +111,6 @@
     "full_name": "Azure-Samples/php-docs-hello-world",
     "stargazers_count": 36,
     "open_issues_count": 31,
-    "forks_count": 1671
+    "forks_count": 1673
   }
 ]
