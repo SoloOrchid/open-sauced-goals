@@ -1,45 +1,45 @@
 [
   {
     "full_name": "zplug/zplug",
-    "stargazers_count": 5714,
+    "stargazers_count": 5720,
     "open_issues_count": 143,
     "forks_count": 228
   },
   {
     "full_name": "algolia/algoliasearch-client-php",
-    "stargazers_count": 666,
+    "stargazers_count": 667,
     "open_issues_count": 17,
     "forks_count": 115
   },
   {
     "full_name": "matomo-org/device-detector",
-    "stargazers_count": 2788,
-    "open_issues_count": 54,
-    "forks_count": 456
+    "stargazers_count": 2795,
+    "open_issues_count": 53,
+    "forks_count": 457
   },
   {
     "full_name": "GoogleChromeLabs/squoosh",
-    "stargazers_count": 21188,
+    "stargazers_count": 21212,
     "open_issues_count": 220,
-    "forks_count": 1476
+    "forks_count": 1477
   },
   {
     "full_name": "invoiceninja/invoiceninja",
-    "stargazers_count": 7884,
-    "open_issues_count": 786,
-    "forks_count": 2217
+    "stargazers_count": 7891,
+    "open_issues_count": 793,
+    "forks_count": 2218
   },
   {
     "full_name": "xizon/fullstack-nextjs-app-template",
-    "stargazers_count": 75,
+    "stargazers_count": 76,
     "open_issues_count": 0,
-    "forks_count": 27
+    "forks_count": 26
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 75656,
+    "stargazers_count": 75707,
     "open_issues_count": 441,
-    "forks_count": 9195
+    "forks_count": 9196
   },
   {
     "full_name": "Laragear/TwoFactor",
@@ -49,37 +49,37 @@
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 45929,
-    "open_issues_count": 21,
-    "forks_count": 25309
+    "stargazers_count": 46963,
+    "open_issues_count": 11,
+    "forks_count": 25596
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 169921,
-    "open_issues_count": 475,
-    "forks_count": 25650
+    "stargazers_count": 170036,
+    "open_issues_count": 473,
+    "forks_count": 25665
   },
   {
     "full_name": "sdras/awesome-actions",
-    "stargazers_count": 24163,
+    "stargazers_count": 24185,
     "open_issues_count": 108,
     "forks_count": 1439
   },
   {
     "full_name": "MicrosoftDocs/PowerShell-Docs",
-    "stargazers_count": 1912,
-    "open_issues_count": 31,
-    "forks_count": 1538
+    "stargazers_count": 1914,
+    "open_issues_count": 32,
+    "forks_count": 1539
   },
   {
     "full_name": "dahlbyk/posh-git",
-    "stargazers_count": 7469,
+    "stargazers_count": 7475,
     "open_issues_count": 96,
-    "forks_count": 799
+    "forks_count": 798
   },
   {
     "full_name": "hakluke/how-to-exit-vim",
-    "stargazers_count": 6905,
+    "stargazers_count": 6910,
     "open_issues_count": 96,
     "forks_count": 315
   },
@@ -91,37 +91,37 @@
   },
   {
     "full_name": "disposable-email-domains/disposable-email-domains",
-    "stargazers_count": 2271,
-    "open_issues_count": 76,
+    "stargazers_count": 2287,
+    "open_issues_count": 77,
     "forks_count": 503
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 12619,
-    "open_issues_count": 294,
-    "forks_count": 636
+    "stargazers_count": 12648,
+    "open_issues_count": 302,
+    "forks_count": 640
   },
   {
     "full_name": "giggsey/libphonenumber-for-php",
-    "stargazers_count": 4672,
+    "stargazers_count": 4673,
     "open_issues_count": 2,
     "forks_count": 459
   },
   {
     "full_name": "antonioribeiro/google2fa",
-    "stargazers_count": 1791,
+    "stargazers_count": 1794,
     "open_issues_count": 16,
     "forks_count": 197
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 25385,
+    "stargazers_count": 25412,
     "open_issues_count": 6,
-    "forks_count": 6133
+    "forks_count": 6152
   },
   {
     "full_name": "shuchkin/simplexlsx",
-    "stargazers_count": 1679,
+    "stargazers_count": 1682,
     "open_issues_count": 9,
     "forks_count": 496
   },
@@ -135,6 +135,6 @@
     "full_name": "Azure-Samples/php-docs-hello-world",
     "stargazers_count": 38,
     "open_issues_count": 35,
-    "forks_count": 1875
+    "forks_count": 1877
   }
 ]
