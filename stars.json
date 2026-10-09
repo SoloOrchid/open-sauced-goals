@@ -1,73 +1,73 @@
 [
   {
     "full_name": "lyogavin/airllm",
-    "stargazers_count": 35436,
-    "open_issues_count": 156,
-    "forks_count": 3747
+    "stargazers_count": 35524,
+    "open_issues_count": 155,
+    "forks_count": 3752
   },
   {
     "full_name": "pyenv-win/pyenv-win",
-    "stargazers_count": 7408,
+    "stargazers_count": 7411,
     "open_issues_count": 169,
-    "forks_count": 593
+    "forks_count": 592
   },
   {
     "full_name": "libratbag/piper",
-    "stargazers_count": 6017,
-    "open_issues_count": 225,
+    "stargazers_count": 6022,
+    "open_issues_count": 226,
     "forks_count": 226
   },
   {
     "full_name": "open-webui/open-webui",
-    "stargazers_count": 154047,
-    "open_issues_count": 260,
-    "forks_count": 22514
+    "stargazers_count": 154087,
+    "open_issues_count": 264,
+    "forks_count": 22549
   },
   {
     "full_name": "Zie619/n8n-workflows",
-    "stargazers_count": 56894,
+    "stargazers_count": 56925,
     "open_issues_count": 42,
-    "forks_count": 7677
+    "forks_count": 7683
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 97775,
-    "open_issues_count": 94,
-    "forks_count": 7586
+    "stargazers_count": 97806,
+    "open_issues_count": 101,
+    "forks_count": 7814
   },
   {
     "full_name": "Jackywine/Bella",
-    "stargazers_count": 6363,
+    "stargazers_count": 6361,
     "open_issues_count": 72,
     "forks_count": 962
   },
   {
     "full_name": "ashishps1/awesome-system-design-resources",
-    "stargazers_count": 42034,
-    "open_issues_count": 23,
-    "forks_count": 8801
+    "stargazers_count": 42112,
+    "open_issues_count": 19,
+    "forks_count": 8805
   },
   {
     "full_name": "keshavgbpecdelhi/Web-Development",
-    "stargazers_count": 1583,
+    "stargazers_count": 1587,
     "open_issues_count": 119,
-    "forks_count": 510
+    "forks_count": 508
   },
   {
     "full_name": "fffaraz/awesome-cpp",
-    "stargazers_count": 73639,
-    "open_issues_count": 312,
-    "forks_count": 8350
+    "stargazers_count": 73703,
+    "open_issues_count": 311,
+    "forks_count": 8349
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 551771,
-    "open_issues_count": 668,
-    "forks_count": 51759
+    "stargazers_count": 552075,
+    "open_issues_count": 673,
+    "forks_count": 51805
   },
   {
     "full_name": "mhadidg/software-architecture-books",
-    "stargazers_count": 11373,
+    "stargazers_count": 11378,
     "open_issues_count": 3,
     "forks_count": 892
   },
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "matomo-org/device-detector",
-    "stargazers_count": 3531,
-    "open_issues_count": 76,
+    "stargazers_count": 3533,
+    "open_issues_count": 77,
     "forks_count": 515
   },
   {
     "full_name": "GoogleChromeLabs/squoosh",
-    "stargazers_count": 25991,
+    "stargazers_count": 26013,
     "open_issues_count": 262,
-    "forks_count": 2180
+    "forks_count": 2182
   },
   {
     "full_name": "invoiceninja/invoiceninja",
-    "stargazers_count": 10225,
-    "open_issues_count": 224,
-    "forks_count": 2736
+    "stargazers_count": 10250,
+    "open_issues_count": 225,
+    "forks_count": 2738
   },
   {
     "full_name": "xizon/fullstack-nextjs-app-template",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 97964,
+    "stargazers_count": 98019,
     "open_issues_count": 603,
-    "forks_count": 10643
+    "forks_count": 10646
   },
   {
     "full_name": "Laragear/TwoFactor",
@@ -127,27 +127,27 @@
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 121052,
-    "open_issues_count": 14,
-    "forks_count": 63708
+    "stargazers_count": 121027,
+    "open_issues_count": 19,
+    "forks_count": 63810
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 190181,
-    "open_issues_count": 305,
-    "forks_count": 28513
+    "stargazers_count": 190043,
+    "open_issues_count": 304,
+    "forks_count": 28722
   },
   {
     "full_name": "sdras/awesome-actions",
-    "stargazers_count": 28292,
-    "open_issues_count": 322,
-    "forks_count": 1818
+    "stargazers_count": 28296,
+    "open_issues_count": 323,
+    "forks_count": 1820
   },
   {
     "full_name": "MicrosoftDocs/PowerShell-Docs",
-    "stargazers_count": 2560,
-    "open_issues_count": 31,
-    "forks_count": 1724
+    "stargazers_count": 2561,
+    "open_issues_count": 32,
+    "forks_count": 1722
   },
   {
     "full_name": "dahlbyk/posh-git",
@@ -159,7 +159,7 @@
     "full_name": "hakluke/how-to-exit-vim",
     "stargazers_count": 7193,
     "open_issues_count": 103,
-    "forks_count": 325
+    "forks_count": 326
   },
   {
     "full_name": "microsoft/OCR-Form-Tools",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "disposable-email-domains/disposable-email-domains",
-    "stargazers_count": 5550,
-    "open_issues_count": 47,
-    "forks_count": 889
+    "stargazers_count": 5554,
+    "open_issues_count": 49,
+    "forks_count": 890
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 29625,
-    "open_issues_count": 807,
-    "forks_count": 2308
+    "stargazers_count": 29671,
+    "open_issues_count": 812,
+    "forks_count": 2317
   }
 ]
